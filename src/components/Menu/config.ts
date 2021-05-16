@@ -12,19 +12,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://dogoswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
+        href: 'https://dogoswap.finance/#/pool',
       },
       {
         label: 'LP Migration',
-        href: 'https://v1exchange.pancakeswap.finance/#/migrate',
+        href: 'https://dogoswap.finance/#/migrate',
       },
       {
         label: 'V1 Liquidity (Old)',
-        href: 'https://v1exchange.pancakeswap.finance/#/pool',
+        href: 'https://dogoswap.finance/#/pool',
       },
     ],
   },
